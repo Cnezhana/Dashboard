@@ -12,3 +12,4 @@ https://datalens.yandex/lfocrews85zu9
 
 # Дашборды, выполненные на BI платформe Google Looker (Google Data Studio), для интерактивной работы доступны по следующим ссылкам:
 https://lookerstudio.google.com/reporting/e2c8da66-f71a-45cd-9ded-c02359c64f78
+https://lookerstudio.google.com/reporting/5d86681e-1a0b-473a-980b-51096e6e5a0a
